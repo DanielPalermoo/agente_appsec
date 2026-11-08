@@ -1,0 +1,3 @@
+# Ignorar repositorios y codigos de proyectos auditados externos
+auditorias/poo20205-grpo10/
+*.rar
